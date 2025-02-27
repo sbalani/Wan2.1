@@ -773,7 +773,7 @@ if __name__ == "__main__":
     prompt_expander = None
 
     with gr.Blocks() as demo:
-        gr.Markdown("SECourses Wan 2.1 I2V - V2V - T2V Advanced Gradio APP V11 : https://www.patreon.com/posts/123105403")
+        gr.Markdown("Endangered AI: support on  https://www.patreon.com/endangeredai")
         with gr.Row():
             with gr.Column(scale=4):
                 # Model & Resolution settings
