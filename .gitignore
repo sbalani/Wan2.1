@@ -12,11 +12,13 @@
 *.zip
 *.pt
 *.pth
+auto_pre_processed_images
 *.ckpt
 *.safetensors
 *.json
 # *.txt
 *.backup
+models
 *.pkl
 *.html
 *.pdf
@@ -24,10 +26,13 @@
 cache
 DiffSynth-Studio
 outputs
+configs
 venv
 __pycache__/
 storage/
 samples/
+wan_2_1_all_models.z01
+__rzi_23488.17853.rartemp
 !.gitignore
 !requirements.txt
 .DS_Store
@@ -37,3 +42,4 @@ Wan2.1-T2V-14B/
 Wan2.1-T2V-1.3B/
 Wan2.1-I2V-14B-480P/
 Wan2.1-I2V-14B-720P/
+Practical-RIFE
